@@ -5,7 +5,7 @@ We all have a directory where we put all of our files into, sometimes it gets pr
 It's time consumming if you try organize this directory manually.
 
 ## Solution
-A simple python script, to organize a directory 
+A simple python script that tests each file and then move it to a directory
 
 ### How to use 
 
